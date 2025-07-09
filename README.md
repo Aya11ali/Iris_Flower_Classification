@@ -39,7 +39,7 @@ The dataset was well-structured with no missing values. Visualizations revealed 
 
 Since the dataset was clean and numeric, minimal preprocessing was needed. The data was split into training and testing sets, and standard scaling was applied where appropriate.
 
-##Model Evaluation and Overfitting Detection
+## Model Evaluation and Overfitting Detection
 
 A wide range of models was evaluated, including Logistic Regression, Decision Trees, Random Forests, and SVMs. For each, we computed core metrics: Precision, Recall, Accuracy, F1 macro, and ROC AUC, on both train and test sets.
 
